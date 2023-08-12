@@ -1,0 +1,23 @@
+1. Install Python
+
+2. Install mongodb community server
+
+3. Install Pycharm community server
+
+4. Download and install git bash
+
+5. Create git repository in your github account.
+
+6. Clone the git repository 
+
+7. Install pymongo , fastapi , uvicorn
+
+sudo apt autoremove
+
+# Start MongoDB service
+sudo systemctl start mongod
+
+# Enable MongoDB service to start on boot
+sudo systemctl enable mongod
+
+mongo
